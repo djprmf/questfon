@@ -21,7 +21,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "questFON Call Tracking",
-  "categories": ["ANALYTICS, "ATTRIBUTION", "LEAD_GENERATION", "MARKETING", "PERSONALIZATION", "AFFILIATE_MARKETING", "ADVERTISING"],
+  "categories": ["ANALYTICS", "ATTRIBUTION", "LEAD_GENERATION", "MARKETING", "PERSONALIZATION", "AFFILIATE_MARKETING", "ADVERTISING"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
