@@ -1,5 +1,5 @@
 homepage: "https://questfon.cloud/call-tracking/"
 documentation: "https://www.questfon.cloud/call-tracking/#funktionsweise"
 versions:
-  - sha: 63c09d467e5e953aa03d06872e16d067fa53abc7
+  - sha: cb959f995c23916505f65952cb66f7f17a8fa7be
     changeNotes: Initial release.
