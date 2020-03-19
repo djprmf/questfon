@@ -85,7 +85,7 @@ qf('get', 'phonenumber');
 // render phonenumber into DOM
 qf('render');
 
-const url = 'https://e164.questfon.cloud/api/v5/static/qf5-min.js?id='+ _tid;
+const url = 'https://e164.questfon.cloud/qf5-min.js?id='+ _tid;
 injectScript(url, data.gtmOnSuccess, data.gtmOnFailure, url);
 
 
