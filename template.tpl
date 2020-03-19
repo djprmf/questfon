@@ -341,6 +341,10 @@ ___WEB_PERMISSIONS___
             "listItem": [
               {
                 "type": 1,
+                "string": "https://e164.questfon.cloud/*"
+              },
+              {
+                "type": 1,
                 "string": "https://www.0049.wtf/*"
               },
               {
